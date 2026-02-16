@@ -16,10 +16,23 @@ SAMPLE_USERS = [
     {"id": 3, "name": "Carol Williams", "email": "carol@example.com"},
     {"id": 4, "name": "David Brown", "email": "david@example.com"},
     {"id": 5, "name": "Eva Davis", "email": "eva@example.com"},
+    {"id": 7, "name": "Grace Wilson", "email": "grace@example.com"},
+    {"id": 8, "name": "Henry Davis", "email": "henry@example.com"},
+    {"id": 9, "name": "Ivy Taylor", "email": "ivy@example.com"},
+    {"id": 10, "name": "Jack Johnson", "email": "jack@example.com"},
 ]
 
 SAMPLE_CITIES = [
     "Tokyo", "New York", "London", "Paris", "Sydney",
+    "Berlin", "Singapore", "Dubai", "Toronto", "Mumbai",
+    "São Paulo", "Mexico City", "Seoul", "Amsterdam", "Rome",
+    "San Francisco", "Chicago", "Los Angeles", "Miami", "Madrid",
+    "Berlin", "Singapore", "Dubai", "Toronto", "Mumbai",
+    "São Paulo", "Mexico City", "Seoul", "Amsterdam", "Rome",
+    "San Francisco", "Chicago", "Los Angeles", "Miami", "Madrid",
+    "Berlin", "Singapore", "Dubai", "Toronto", "Mumbai",
+    "São Paulo", "Mexico City", "Seoul", "Amsterdam", "Rome",
+    "San Francisco", "Chicago", "Los Angeles", "Miami", "Madrid",
     "Berlin", "Singapore", "Dubai", "Toronto", "Mumbai",
     "São Paulo", "Mexico City", "Seoul", "Amsterdam", "Rome",
 ]
